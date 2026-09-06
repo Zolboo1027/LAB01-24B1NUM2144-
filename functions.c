@@ -122,4 +122,3 @@ int intersection_set(int A[], int n, int B[], int m, int C[])
     return k;
         
 }
-
